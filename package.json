@@ -1,0 +1,19 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "admin web untuk web gereja",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahyomahardika/admin-gkjbaki.git"
+  },
+  "author": "DIKA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahyomahardika/admin-gkjbaki/issues"
+  },
+  "homepage": "https://github.com/cahyomahardika/admin-gkjbaki#readme"
+}
